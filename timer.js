@@ -60,3 +60,4 @@ const myTimer = new Timer();
 document.getElementById('start').addEventListener('click', () => myTimer.start());
 document.getElementById('pause').addEventListener('click', () => myTimer.pause());
 document.getElementById('reset').addEventListener('click', () => myTimer.reset());
+ 
